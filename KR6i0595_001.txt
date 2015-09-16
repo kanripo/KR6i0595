@@ -1,22 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:24.611456
+#+DATE: 2015-08-30 20:23:24.840203
 #+TITLE: 大乘四法經釋抄
 #+PROPERTY: CBETA_ID T85n2784
 #+PROPERTY: ID KR6i0595
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2784
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0595_T_001-0557c> 
 #+PROPERTY: JUAN 1
 ¶
-No.2784[cf.No.1535]¶
-
- 大乘四法經釋抄¶
+No. 2784 [cf. No. 1535]¶
+大乘四法經釋抄¶
 ¶
 
 大乘四法經　夫立經名者。皆約四種而立¶
-其名。者人。如維摩經等是　二處者。如楞¶
+其名。一者人。如維摩經等是　二處者。如楞¶
 伽經。世尊謂楞伽王名羅波羅王。就楞伽山¶
 說法。遂約□立其名　三法者。如大般若經¶
 說。蘊界等法。內外俱空。不執人法二我故。¶
