@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:24.611456
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:51
 #+TITLE: 大乘四法經釋抄
 #+PROPERTY: CBETA_ID T85n2784
 #+PROPERTY: ID KR6i0595
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2784
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0595_T_001-0557c> 
 #+PROPERTY: JUAN 1
 ¶
-No.2784[cf.No.1535]¶
-
- 大乘四法經釋抄¶
+No. 2784 [cf. No. 1535]¶
+大乘四法經釋抄¶
 ¶
 
 大乘四法經　夫立經名者。皆約四種而立¶
